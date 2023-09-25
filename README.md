@@ -32,7 +32,7 @@ To build this project, I used the following technologies and tools:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/drum-web-duplicate.git
+   git clone https://github.com/rachannzz/drum-web-duplicate.git
    ```
 
 2. Open the `index.html` file in your web browser.

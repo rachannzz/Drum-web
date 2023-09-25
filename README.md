@@ -56,7 +56,8 @@ TOP PROJECT
 ## Author
 - WES BOS
 - GitHub: (https://github.com/wesbos)
-##REDESIN FOR LEARNING PURPOSE
+- 
+## REDID AND COMMITTED ON MY OWN REPOSITORY FOR LEARNING PURPOSE
 -Rachan Phuyal
 
 

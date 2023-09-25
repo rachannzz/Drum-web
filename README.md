@@ -1,4 +1,4 @@
-# Drum Web Duplicate with WEB BOS
+# Drum Web Duplicate FOR EVENT AND DOM LEARNING
 
 ## Introduction
 
